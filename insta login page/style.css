@@ -1,0 +1,114 @@
+*{
+    margin: 0;
+    text-decoration: none;
+    padding: 0;
+    margin: 0;
+   
+    
+}
+.container{
+    height: 100vh;
+    width: 100vw;
+    margin: 1rem;
+}
+
+.main-container{
+ margin: 2rem;
+    
+ 
+  height: 465px;
+  width: 400px;
+  margin: 0 auto;
+   
+   
+    text-align: center;
+    
+    border: 1px solid black;
+}
+.settig{
+    display: flex;
+    justify-content: center;
+    margin: 2rem;
+    gap: 230px;
+    color: grey;
+}
+    .insta-body-container{
+        margin: 2rem;
+        padding: 1rem;
+        font-style: Roboto;
+        font-size:1.45rem;
+       
+        font-weight: 600;
+    }   
+
+    .destails{
+        display: flex;
+        flex-direction: column;
+        row-gap: 0.5rem;
+       
+    }
+    .t1{
+        height: 1.8rem;
+        width: 16rem;
+        border-radius:  black 2px;
+       
+    }
+    #password,#email{
+      padding: 3px;
+      font-size: 0.76rem;
+    }
+
+  
+
+        
+    
+.button{
+     height: 1.8rem;
+    width: 16rem;
+    margin: 0 auto;
+   margin-top: 1rem;
+
+   
+    border-radius: 5px;
+background-color: rgb(42, 155, 203);
+color: white;
+}
+.button:hover{
+    background: rgb(30, 102, 130);
+}
+    
+.log-in{
+   padding: 1rem;
+   margin: 0.6rem;
+   color:rgb(42, 155, 203) ;
+}
+.fb{
+    display: flex;
+    justify-content: center;
+    gap:0.5rem;
+    font-weight: bold;
+    color: blue;
+    font-size: 1rem;
+}
+.fotter{
+    text-align: center;
+    
+    border: 1px solid black;
+    height: 4rem;
+    width: 25rem;
+    margin: 0 auto;
+    margin-top: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+
+}
+.blue{
+    color:rgb(42, 155, 203) ;
+}
+
+    
+    
+
+
